@@ -1,7 +1,7 @@
 criaCartao(
     'HIP HOP',
-    'Em qual ano as gêmeas Tasha e Tracie lançaram sua primeira música?',
-    'A primeira álbum lançado foi e "Rouff" com parceria da Ashira em 2019.'
+    'Em qual ano as gêmeas Tasha e Tracie lançaram sua primeira/álbum música?',
+    'A primeira música/álbum lançado foi e "Rouff" com parceria da Ashira em 2019.'
 )
 
 criaCartao(
